@@ -22,7 +22,7 @@ Sharing expenses in a rented accommodation can lead to chaos and misunderstandin
 
 ## How to Use
 
-1. Run the python file `rent_calculator.py`.
+1. Run the python file `rentcalculator.py`.
 2. Enter the number of roommates when prompted.
 3. Enter the rent, food expenses, electricity units, and rate per unit when prompted.
 4. View the amount that each roommate needs to contribute.
