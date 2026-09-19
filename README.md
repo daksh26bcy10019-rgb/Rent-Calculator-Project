@@ -7,9 +7,13 @@ The Rent Calculator is a Python-based console application that was created to ma
 ## Features
 
 * Calculates the total electricity bill with the units consumed and the rate per unit.
+
 * Splits the rent and other expenses evenly among the roommates.
+
 *Lets multiple calculations be performed in a session.
+
 *Has a simple and user-friendly user interface made up of text.
+
 *Helps avoid errors that could have been made when calculating manually.
 
 ## Motivation
