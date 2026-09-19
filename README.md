@@ -10,11 +10,11 @@ The Rent Calculator is a Python-based console application that was created to ma
 
 * Splits the rent and other expenses evenly among the roommates.
 
-*Lets multiple calculations be performed in a session.
+* Lets multiple calculations be performed in a session.
 
-*Has a simple and user-friendly user interface made up of text.
+* Has a simple and user-friendly user interface made up of text.
 
-*Helps avoid errors that could have been made when calculating manually.
+* Helps avoid errors that could have been made when calculating manually.
 
 ## Motivation
 
