@@ -47,8 +47,7 @@ Building a mobile application version.
 ## Author
 
 Student Developer
-
-Based in the tutorial from Coding With Sagar YouTube Channel.
+Daksh Jain
 
 ## License
 
